@@ -1,0 +1,7 @@
+01/01/2017: TES IV - Oblivion version 1.0.1
+- Multiple typo fixes
+- Remove Dark Brotherhood "Eternal Exile" quest (quest to be readmitted)
+- Remove Dark Brotherhood "Another Dark Exile" quest (quest to be readmitted, again)
+- Remove Dark Brotherhood "Darkness Eternal" quest (quest to become vampire if your are not already one)
+- Remove Fighters Guild "Expelled from the Fighters Guild" quest (quest to renew membership)
+- Remove Thieves Guild "Cast out of the Thieves Guild" quest (quest to restore membership)
