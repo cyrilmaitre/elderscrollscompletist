@@ -26,3 +26,14 @@ Dim CB As CheckBox
         CB.Value = 0
     Next CB
 End Sub
+
+
+Sub InitAllCheckBox()
+Dim CB As CheckBox
+    For Each CB In ActiveSheet.CheckBoxes
+        If CB.Value <> 0 And CB.Value <> 1 Then
+            CB.Value = 1
+            CB.Value = 0
+        End If
+    Next CB
+End Sub
