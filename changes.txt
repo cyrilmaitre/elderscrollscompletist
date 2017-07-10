@@ -1,3 +1,8 @@
+10/07/2017:
+- Move files into dedicated folder
+- Split cheklists per game into dedicated file
+- Add Baldur's Gate
+
 01/01/2017: TES IV - Oblivion version 1.0.1
 - Multiple typo fixes
 - Remove Dark Brotherhood "Eternal Exile" quest (quest to be readmitted)
